@@ -1,7 +1,7 @@
 # Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Coby Eastwood, and I am a current Software Engineer @stratusdata. 
+My name is Pranay Singh, and I am a current Software Engineer @twitter. 
 
-Originally from Portland, OR. Graduated from Gonzaga University in 2018. Personally, love all things running, coding, and coffee. Apart from English, I also speak Dutch, and German.
+Originally from Delhi, IN. Graduated from Boston University in 2016. Personally, love all things art, coding, and coffee. Apart from English, I also speak Hindi.
 
 ### Tools & Technologies :nut_and_bolt:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9cf)
